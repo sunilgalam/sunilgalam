@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunilgalam
 - 👀 I’m interested in ...analyzing, making reports, coding, marketing,
 - 🌱 I’m currently learning ...all the IT stuff, necessary to survive 
-- 💞️ I’m looking to collaborate on ...the best payer, who typically quotes the best pacakge for me
+-  I’m looking to collaborate on ...the best payer, who typically quotes the best pacakge for me.
 - 📫 How to reach me ...mail me (sunilgalam917@gmail.com)
 
 <!---
